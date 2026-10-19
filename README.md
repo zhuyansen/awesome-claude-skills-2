@@ -108,6 +108,7 @@
 - **[youtube-full](https://github.com/ZeroPointRepo/youtube-skills)** - YouTube transcripts, search, channel data, and playlists via TranscriptAPI. 100 free credits.
 - [alpha-insights](https://github.com/Ericyoung-183/alpha-insights) - Structured business research skill with strategy frameworks, evidence grading, and report output.
 - [claude-persona](https://github.com/takechanman1228/claude-persona) - Build AI persona panels for customer research, interviews, concept tests, and executive reports.
+- [new-term-radar](https://github.com/zhuyansen/new-term-radar) - Daily radar for new AI model, product and repo names on X, Hugging Face, GitHub and sitemaps, plus a keyword priority table for each name.
 
 
 ## 🔬 Scientific & Research Tools
@@ -169,6 +170,7 @@
 - [claude-video-plus](https://github.com/abe238/claude-video-plus) - Ask a video a question and retrieve only the chapters, facts, and on-screen moments that answer it.
 - [ai-shortfilm-prompts](https://github.com/jnMetaCode/ai-shortfilm-prompts) - Turn any idea into a cinematic, model-ready video prompt for Sora, Kling, Veo, or Seedance.
 - [bria-ai](https://github.com/Bria-AI/bria-skill/tree/main/skills/bria-ai) - Generate, edit, and remove image backgrounds via the Bria.ai API — text-to-image, natural-language edits, and transparent PNGs.
+- [xhs-cover](https://github.com/zhuyansen/xhs-cover-skill) - Xiaohongshu-style video covers from a two-line title, one number and two or three proof points: 3:4, 16:9 and 9:16 in one run, Pillow only.
 
 
 ## 🏥 Health & Life Sciences
@@ -234,6 +236,8 @@
 - [sequenzy-email-marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - Operate Sequenzy email marketing workflows for subscribers, campaigns, sequences, and templates.
 - [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation skill for search, posting, follower export, monitors, webhooks, and giveaways.
 - [browser-search](https://github.com/Johell1NS/browser-search) - Web search and browsing skill for AI agents with multi-engine search and stealth browsing.
+- [backlink-guard](https://github.com/zhuyansen/backlink-guard) - Check a directory or link source against Google's link spam policies before you submit to it, verify the listing, and find backlinks that now land on 404s.
+- [payment-guard](https://github.com/zhuyansen/payment-guard) - Pick a payment platform you can actually open (Creem, Dodo, Paddle, Lemon Squeezy, Polar, Stripe and more) and check your site against its review requirements before you apply.
 
 ## 📰 Articles & Blog Posts
 
